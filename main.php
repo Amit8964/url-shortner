@@ -14,7 +14,7 @@ if(isset($_POST["short"])){
   
     $abc = $_POST["short"];
 
-mysqli_select_db($conn, 'userpass'); 
+//mysqli_select_db($conn, 'userpass'); 
  
 $search = "select * from urls where short = '$str' ";
 
