@@ -191,7 +191,7 @@ while($row = mysqli_fetch_assoc($res2)){
 
 ?>
 <tr  id="bellow_head">
-<td width="33%"  > <a href="https://url-shortner1-new.herokuapp.com/redirect.php?x=<?php echo $row['short']; ?>">https://url-shortner1-new.herokuapp.com/redirect.php?x=<?php echo $row['short']; ?></a></td>
+<td width="33%"  > <a href="https://url-shortner1-new.herokuapp.com/r.php?x=<?php echo $row['short']; ?>">https://url-shortner1-new.herokuapp.com/r.php?x=<?php echo $row['short']; ?></a></td>
 <td width="33%"><?php echo $row['orignal']; ?></td>
 
 <td width="33%"><a class='links' href="./delete.php?x=<?php echo $row['short']; ?>">delete</a></td>
