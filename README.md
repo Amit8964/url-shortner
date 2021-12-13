@@ -28,7 +28,7 @@ quick access.
 LINK ->  https://srte56t.herokuapp.com/index.php
 
 
-#NOTE  
+# NOTE  
 
 * It will only works on PC laptops because it's 
 front end is not responsive
