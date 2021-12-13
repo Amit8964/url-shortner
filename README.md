@@ -26,3 +26,12 @@ quick access.
 # LIVE LINK
 
 LINK ->  https://srte56t.herokuapp.com/index.php
+
+
+#NOTE  
+
+* It will only works on PC laptops because it's 
+front end is not responsive
+ so don't try to run it on your smartphone.
+ 
+ THANK YOU
