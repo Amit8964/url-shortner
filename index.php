@@ -1,13 +1,13 @@
 
 <?php
-//include "cnc.php";
+include "cnc.php";
 
 
 
 if(isset($_POST["user"])){
 
     
-    $conn = mysqli_connect("localhost", "root", "", "userpass");
+   // $conn = mysqli_connect("localhost", "root", "", "userpass");
     
 
 
