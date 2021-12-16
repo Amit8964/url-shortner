@@ -20,8 +20,8 @@ quick access.
 * php 
 * Mysql Database
 * javascript 
-*html
-*css
+* html
+* css
 
 # LIVE LINK
 
