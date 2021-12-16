@@ -7,7 +7,7 @@ if(isset($_POST["user"])){
 
 $username =  $_POST["user"];
 $password = $_POST["pass"];
-//mysqli_select_db($conn, 'userpass'); 
+//mysqli_select_db($conn, 'userpass') 
 
 
 $search = "select * from userdata where usernames = '$username' ";
